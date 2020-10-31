@@ -22,15 +22,6 @@
         "phpunit/phpunit": "^4.8.35"
     },
     "autoload": {
-        "psr-0": {"Octoper\\ParsedownExtra": ""}
-    },
-    "autoload-dev": {
-        "psr-0": {
-            "TestParsedown": "test/",
-            "ParsedownExtraTest": "test/",
-            "ParsedownTest": "vendor/erusev/parsedown/test/",
-            "CommonMarkTest": "vendor/erusev/parsedown/test/",
-            "CommonMarkTestWeak": "vendor/erusev/parsedown/test/"
-        }
+        "psr-4": {"Octoper\\ParsedownExtra": ""}
     }
 }

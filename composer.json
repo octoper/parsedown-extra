@@ -1,5 +1,5 @@
 {
-    "name": "erusev/parsedown-extra",
+    "name": "octoper/parsedown-extra",
     "description": "An extension of Parsedown that adds support for Markdown Extra.",
     "keywords": ["markdown", "markdown extra", "parser", "parsedown"],
     "homepage": "https://github.com/erusev/parsedown-extra",
@@ -22,7 +22,7 @@
         "phpunit/phpunit": "^4.8.35"
     },
     "autoload": {
-        "psr-0": {"ParsedownExtra": ""}
+        "psr-0": {"Octoper\\ParsedownExtra": ""}
     },
     "autoload-dev": {
         "psr-0": {

@@ -13,6 +13,8 @@
 #
 #
 
+namespace Octoper;
+
 class ParsedownExtra extends Parsedown
 {
     # ~
